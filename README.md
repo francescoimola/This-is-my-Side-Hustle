@@ -2,6 +2,8 @@
 
 How has the leisure-commodifying notion of maintaining a 'side hustle' become so pervasive? How does it affect our sense of self? "This is my Side Hustle" invites reflection on the interplay between satire, art and social demands by using humour to stimulate thinking on the subject of moonlighting in contemporary society.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3fa4004c-7aca-41b6-8203-9eab112ac296/deploy-status)](https://app.netlify.com/sites/my-side-hustle/deploys)
+
 ## License
 
 [GNU AGPLv3](https://github.com/francescoimola/This-is-my-Side-Hustle/blob/e04ae4e20558862bf8a5eb6d02bd247132e2e241/LICENSE)
