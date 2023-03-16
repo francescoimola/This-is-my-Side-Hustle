@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Side Hustle</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+
+  <body id="body" style="display: none">
+    
+    <h1 class="hustle fadein">Hustle</h1>
+    
+    <footer class="fadein-slow">
+      <details>
+        <summary class="btn">About</summary>
+        <p>
+          This is a site by
+          <a href="https://www.francescoimola.com/" target="_blank"
+            >Francesco Imola</a
+          >
+        </p>
+      </details>
+    </footer>
+
+    <script>
+      window.onload = function () {
+        setTimeout(function () {
+          document.getElementById("body").style.display = "";
+        }, 200);
+      };
+    </script>
+  </body>
+</html>
