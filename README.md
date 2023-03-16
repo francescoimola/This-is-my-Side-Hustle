@@ -1,18 +1,10 @@
 # This is my Side Hustle
 
-
-The site itself weights < 1KB, and the entire repo < 1MB.
-
-## Badges
-
-![W3C Validation]()
-![Website]()
-![GitHub last commit]()
-![GitHub repo size]()
+How has the leisure-commodifying notion of maintaining a 'side hustle' become so pervasive? How does it affect our sense of self? "This is my Side Hustle" invites reflection on the interplay between satire, art and social demands by using humour to stimulate thinking on the subject of moonlighting in contemporary society.
 
 ## License
 
-[GNU AGPLv3]()
+[GNU AGPLv3](https://github.com/francescoimola/This-is-my-Side-Hustle/blob/e04ae4e20558862bf8a5eb6d02bd247132e2e241/LICENSE)
 
 ## 🥸 About Me
 
